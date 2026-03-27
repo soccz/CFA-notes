@@ -1,0 +1,133 @@
+# CFA Level 1 한국어 학습서
+
+> 영어 없이, CFA 사전 지식 0에서 시작하여 전문가 수준 이해까지.
+> PDF를 다시 보지 않아도 될 수준으로 체화하는 것이 목표.
+
+---
+
+## Book 1
+
+### Quantitative Methods (계량적 방법론)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R01 | 수익률과 이자율 (Rates and Returns) | [열기](chapters/R01_rates_and_returns.md) |
+| R02 | 화폐의 시간 가치 (Time Value of Money) | [열기](chapters/R02_time_value_of_money.md) |
+| R03 | 통계적 측도 (Statistical Measures) | [열기](chapters/R03_statistical_measures.md) |
+| R04 | 확률과 확률 나무 (Probability Trees) | [열기](chapters/R04_probability_trees.md) |
+| R05 | 포트폴리오 수학 (Portfolio Mathematics) | [열기](chapters/R05_portfolio_mathematics.md) |
+| R06 | 시뮬레이션 방법 (Simulation Methods) | [열기](chapters/R06_simulation_methods.md) |
+| R07 | 추정과 추론 (Estimation and Inference) | [열기](chapters/R07_estimation_and_inference.md) |
+| R08 | 가설 검정 (Hypothesis Testing) | [열기](chapters/R08_hypothesis_testing.md) |
+| R09 | 모수·비모수 검정 (Parametric and Nonparametric Tests) | [열기](chapters/R09_parametric_nonparametric_tests.md) |
+| R10 | 단순 선형 회귀 (Simple Linear Regression) | [열기](chapters/R10_simple_linear_regression.md) |
+| R11 | 빅데이터 기법 (Big Data Techniques) | [열기](chapters/R11_big_data_techniques.md) |
+
+### Economics (경제학)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R12 | 기업과 시장 구조 (Firm and Market Structures) | [열기](chapters/R12_firm_market_structures.md) |
+| R13 | 경기 사이클 (Business Cycles) | [열기](chapters/R13_business_cycles.md) |
+| R14 | 재정정책 (Fiscal Policy) | [열기](chapters/R14_fiscal_policy.md) |
+| R15 | 통화정책 (Monetary Policy) | [열기](chapters/R15_monetary_policy.md) |
+| R16 | 지정학 입문 (Introduction to Geopolitics) | [열기](chapters/R16_introduction_to_geopolitics.md) |
+| R17 | 국제 무역 (International Trade) | [열기](chapters/R17_international_trade.md) |
+| R18 | 자본 흐름과 외환 시장 (Capital Flows and FX Market) | [열기](chapters/R18_capital_flows_and_fx_market.md) |
+| R19 | 환율 계산 (Exchange Rate Calculations) | [열기](chapters/R19_exchange_rate_calculations.md) |
+
+### Corporate Issuers (기업 재무)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R20 | 기업 형태 (Organizational Forms and Corporate Issuers) | [열기](chapters/R20_organizational_forms_corporate_issuers.md) |
+| R21 | 투자자와 이해관계자 (Investors and Other Stakeholders) | [열기](chapters/R21_investors_and_other_stakeholders.md) |
+| R22 | 기업 지배구조 (Corporate Governance) | [열기](chapters/R22_corporate_governance.md) |
+| R23 | 운전자본과 유동성 (Working Capital and Liquidity) | [열기](chapters/R23_working_capital_and_liquidity.md) |
+| R24 | 자본 투자와 자본 배분 (Capital Investments and Capital Allocation) | [열기](chapters/R24_capital_investments_and_capital_allocation.md) |
+| R25 | 자본 구조 (Capital Structure) | [열기](chapters/R25_capital_structure.md) |
+| R26 | 비즈니스 모델 (Business Models) | [열기](chapters/R26_business_models.md) |
+
+---
+
+## Book 2
+
+### Financial Statement Analysis (재무제표 분석)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R27 | 재무 보고의 기초 | 미작성 |
+| R28 | 재무제표 분석 소개 | 미작성 |
+| R29 | 재무 보고 품질 | 미작성 |
+| R30 | 손익계산서 분석 | 미작성 |
+| R31 | 대차대조표 분석 | 미작성 |
+| R32 | 현금흐름표 분석 | 미작성 |
+| R33 | 재무 분석 기법 | 미작성 |
+| R34 | 재고 분석 | 미작성 |
+| R35 | 장기 자산 분석 | 미작성 |
+| R36 | 부채 분석 | 미작성 |
+| R37 | 법인세 분석 | 미작성 |
+| R38 | 비재무 공시 | 미작성 |
+
+### Equity Investments (주식 투자)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R39 | 주식 시장 구조 | 미작성 |
+| R40 | 증권 시장 지수 | 미작성 |
+| R41 | 시장 효율성 | 미작성 |
+| R42 | 주식 투자 개요 | 미작성 |
+| R43 | 주식 가치 평가 입문 | 미작성 |
+| R44 | 시장 배수를 이용한 가치 평가 | 미작성 |
+| R45 | 잔여 이익 가치 평가 | 미작성 |
+| R46 | 산업·기업 분석 | 미작성 |
+
+---
+
+## Book 3
+
+### Fixed Income (채권)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R47 | 채권 시장 구조 | 미작성 |
+| R48 | 채권 발행 및 거래 | 미작성 |
+| R49~R65 | Fixed Income 나머지 | 미작성 |
+
+### Derivatives (파생상품)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R66~R75 | Derivatives 전체 | 미작성 |
+
+---
+
+## Book 4
+
+### Alternative Investments (대안 투자)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R76~R82 | Alternative Investments 전체 | 미작성 |
+
+### Portfolio Management (포트폴리오 관리)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R83~R88 | Portfolio Management 전체 | 미작성 |
+
+### Ethics (윤리)
+
+| # | 제목 | 파일 |
+|---|------|------|
+| R89~R93 | Ethics 전체 | 미작성 |
+
+---
+
+## 작성 기준
+
+- PDF 내용 누락 0 — 모든 LOS, 예제, 공식, 퀴즈 포함
+- 초등학생 비유 → 전문가 심화까지 단계적 구성
+- 모든 수식은 유도 과정 + 존재 이유(Why) 포함
+- "왜 이런 개념이 생겼는가"부터 시작
+- KaTeX 수식 렌더링 지원
