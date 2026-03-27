@@ -56,31 +56,31 @@
 
 | # | 제목 | 파일 |
 |---|------|------|
-| R27 | 재무 보고의 기초 | 미작성 |
-| R28 | 재무제표 분석 소개 | 미작성 |
-| R29 | 재무 보고 품질 | 미작성 |
-| R30 | 손익계산서 분석 | 미작성 |
-| R31 | 대차대조표 분석 | 미작성 |
-| R32 | 현금흐름표 분석 | 미작성 |
-| R33 | 재무 분석 기법 | 미작성 |
-| R34 | 재고 분석 | 미작성 |
-| R35 | 장기 자산 분석 | 미작성 |
-| R36 | 부채 분석 | 미작성 |
-| R37 | 법인세 분석 | 미작성 |
-| R38 | 비재무 공시 | 미작성 |
+| R27 | 재무제표 분석 소개 (Introduction to FSA) | [열기](chapters/R27_introduction_to_financial_statement_analysis.md) |
+| R28 | 손익계산서 분석 (Analyzing Income Statements) | [열기](chapters/R28_analyzing_income_statements.md) |
+| R29 | 대차대조표 분석 (Analyzing Balance Sheets) | [열기](chapters/R29_analyzing_balance_sheets.md) |
+| R30 | 현금흐름표 분석 1 (Cash Flows I) | [열기](chapters/R30_analyzing_statements_of_cash_flows_1.md) |
+| R31 | 현금흐름표 분석 2 (Cash Flows II) | [열기](chapters/R31_analyzing_statements_of_cash_flows_2.md) |
+| R32 | 재고 분석 (Analysis of Inventories) | [열기](chapters/R32_analysis_of_inventories.md) |
+| R33 | 장기 자산 분석 (Long-Term Assets) | [열기](chapters/R33_analysis_of_long_term_assets.md) |
+| R34 | 부채와 자본 (Long-Term Liabilities & Equity) | [열기](chapters/R34_topics_in_long_term_liabilities_and_equity.md) |
+| R35 | 법인세 분석 (Analysis of Income Taxes) | [열기](chapters/R35_analysis_of_income_taxes.md) |
+| R36 | 재무 보고 품질 (Financial Reporting Quality) | [열기](chapters/R36_financial_reporting_quality.md) |
+| R37 | 재무 분석 기법 (Financial Analysis Techniques) | [열기](chapters/R37_financial_analysis_techniques.md) |
+| R38 | 재무제표 모델링 (Financial Statement Modeling) | [열기](chapters/R38_introduction_to_financial_statement_modeling.md) |
 
 ### Equity Investments (주식 투자)
 
 | # | 제목 | 파일 |
 |---|------|------|
-| R39 | 주식 시장 구조 | 미작성 |
-| R40 | 증권 시장 지수 | 미작성 |
-| R41 | 시장 효율성 | 미작성 |
-| R42 | 주식 투자 개요 | 미작성 |
-| R43 | 주식 가치 평가 입문 | 미작성 |
-| R44 | 시장 배수를 이용한 가치 평가 | 미작성 |
-| R45 | 잔여 이익 가치 평가 | 미작성 |
-| R46 | 산업·기업 분석 | 미작성 |
+| R39 | 주식 시장 구조 (Market Organization & Structure) | [열기](chapters/R39_market_organization_and_structure.md) |
+| R40 | 증권 시장 지수 (Security Market Indexes) | [열기](chapters/R40_security_market_indexes.md) |
+| R41 | 시장 효율성 (Market Efficiency) | [열기](chapters/R41_market_efficiency.md) |
+| R42 | 주식 증권 개요 (Overview of Equity Securities) | [열기](chapters/R42_overview_of_equity_securities.md) |
+| R43 | 기업 분석: 과거와 현재 (Company Analysis) | [열기](chapters/R43_company_analysis_past_and_present.md) |
+| R44 | 산업·경쟁 분석 (Industry & Competitive Analysis) | [열기](chapters/R44_industry_and_competitive_analysis.md) |
+| R45 | 기업 분석: 예측 (Company Analysis: Forecasting) | [열기](chapters/R45_company_analysis_forecasting.md) |
+| R46 | 주식 가치 평가 기초 (Equity Valuation: Basic Tools) | [열기](chapters/R46_equity_valuation_concepts_and_basic_tools.md) |
 
 ---
 
