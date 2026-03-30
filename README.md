@@ -133,19 +133,34 @@
 
 | # | 제목 | 파일 |
 |---|------|------|
-| R76~R82 | Alternative Investments 전체 | 미작성 |
+| R76 | 대안투자 특성·방법·구조 (Features & Structures) | [열기](chapters/R76_alternative_investment_features_methods_and_structures.md) |
+| R77 | 대안투자 성과와 수익 (Performance & Returns) | [열기](chapters/R77_alternative_investment_performance_and_returns.md) |
+| R78 | 사모자본: 주식과 부채 (Private Capital) | [열기](chapters/R78_investments_in_private_capital_equity_and_debt.md) |
+| R79 | 부동산과 인프라 (Real Estate & Infrastructure) | [열기](chapters/R79_real_estate_and_infrastructure.md) |
+| R80 | 천연자원 (Natural Resources) | [열기](chapters/R80_natural_resources.md) |
+| R81 | 헤지펀드 (Hedge Funds) | [열기](chapters/R81_hedge_funds.md) |
+| R82 | 디지털 자산 입문 (Digital Assets) | [열기](chapters/R82_introduction_to_digital_assets.md) |
 
 ### Portfolio Management (포트폴리오 관리)
 
 | # | 제목 | 파일 |
 |---|------|------|
-| R83~R88 | Portfolio Management 전체 | 미작성 |
+| R83 | 포트폴리오 위험과 수익 Part 1 (Risk & Return I) | [열기](chapters/R83_portfolio_risk_and_return_part1.md) |
+| R84 | 포트폴리오 위험과 수익 Part 2 (Risk & Return II) | [열기](chapters/R84_portfolio_risk_and_return_part2.md) |
+| R85 | 포트폴리오 관리 개요 (PM Overview) | [열기](chapters/R85_portfolio_management_overview.md) |
+| R86 | 포트폴리오 계획과 구성 기초 (Planning & Construction) | [열기](chapters/R86_basics_of_portfolio_planning_and_construction.md) |
+| R87 | 개인의 행동 편향 (Behavioral Biases) | [열기](chapters/R87_the_behavioral_biases_of_individuals.md) |
+| R88 | 리스크 관리 입문 (Risk Management) | [열기](chapters/R88_introduction_to_risk_management.md) |
 
 ### Ethics (윤리)
 
 | # | 제목 | 파일 |
 |---|------|------|
-| R89~R93 | Ethics 전체 | 미작성 |
+| R89 | 윤리와 투자업 신뢰 (Ethics & Trust) | [열기](chapters/R89_ethics_and_trust_in_the_investment_profession.md) |
+| R90 | 윤리 강령과 직업 행동 기준 (Code & Standards) | [열기](chapters/R90_code_of_ethics_and_standards_of_professional_conduct.md) |
+| R91 | Standards I-VII 지침 (Guidance for Standards) | [열기](chapters/R91_guidance_for_standards.md) |
+| R92 | GIPS 소개 (Introduction to GIPS) | [열기](chapters/R92_introduction_to_gips.md) |
+| R93 | 윤리 적용 (Ethics Application) | [열기](chapters/R93_ethics_application.md) |
 
 ---
 
