@@ -68,12 +68,12 @@ $$\text{Step 1: 계약 식별} \rightarrow \text{Step 2: 이행 의무 식별} \
 > **Year 1:** $4백만 원가 발생
 >
 > 투입법으로 진척도를 측정한다:
-> $$\text{진척도} = \frac{\$4M}{\$8M} = 50\%$$
-> $$\text{Year 1 수익} = 50\% \times \$10M = \$5M$$
+> $$\text{진척도} = \frac{\text{\$}4M}{\text{\$}8M} = 50\%$$
+> $$\text{Year 1 수익} = 50\% \times \text{\$}10M = \text{\$}5M$$
 >
 > **Year 2:** 추가 $2백만 원가 발생
-> $$\text{누적 진척도} = \frac{\$6M}{\$8M} = 75\%$$
-> $$\text{Year 2 수익} = 75\% \times \$10M - \$5M = \$2.5M$$
+> $$\text{누적 진척도} = \frac{\text{\$}6M}{\text{\$}8M} = 75\%$$
+> $$\text{Year 2 수익} = 75\% \times \text{\$}10M - \text{\$}5M = \text{\$}2.5M$$
 
 #### 주인(Principal) vs. 대리인(Agent)
 
