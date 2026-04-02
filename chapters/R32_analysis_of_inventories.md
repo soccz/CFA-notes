@@ -32,7 +32,7 @@ IFRS는 LIFO를 금지한다. R27 LOS 27.d에서 언급한 주요 차이 중 하
 #### 순실현가능가치(Net Realizable Value, NRV)
 
 $$
-\text{NRV} = \text{예상 판매가격} - \text{예상 판매비용} - \text{예상 완성비용}
+\text{NRV} = \text{예상 판매가격} - \text{예상 판매비용} - \text{예상 완성비용}$$
 $$
 
 | 변수 | 설명 |
@@ -67,7 +67,7 @@ $$
   - 하한(floor): NRV − 정상이익마진
 
 $$
-\text{하한} = \text{NRV} - \text{정상이익마진} \leq \text{Market} \leq \text{NRV} = \text{상한}
+\text{하한} = \text{NRV} - \text{정상이익마진} \leq \text{Market} \leq \text{NRV} = \text{상한}$$
 $$
 
 - U.S. GAAP에서는 **이후 평가증(write-up) 불허** (LIFO/NRV 방법 모두)
